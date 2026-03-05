@@ -1,5 +1,3 @@
-# Challenge Telecom X
-
 # 📊 Análise de Evasão de Clientes (Churn) – Telecom X
 Este projeto apresenta uma análise exploratória de dados com foco na evasão de clientes (churn) da empresa Telecom X.
 
@@ -28,7 +26,7 @@ A base de dados contém as seguintes variáveis:
 - total_gasto - Valor total acumulado pago pelo cliente
 
 
-## Principais Análises Realizadas
+## 🔍 Principais Análises Realizadas
 - Análise descritiva das variáveis numéricas;
 - Distribuição do churn por variáveis categóricas;
 - Avaliação da relação entre tempo de contrato e cancelamento;
@@ -36,7 +34,7 @@ A base de dados contém as seguintes variáveis:
 - Impacto dos serviços adicionais na retenção;
 - Análise da relação entre forma de pagamento e churn.
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - Python 3
 - Pandas - Manipulação e análise de dados
 - NumPy - Operações numéricas e suporte a arrays
@@ -46,7 +44,7 @@ A base de dados contém as seguintes variáveis:
 - Requests - Requisições HTTP para obtenção da base de dados
 - Jupyter Notebook / Google Colab - Ambiente de desenvolvimento
 
-## Como rodar o projeto
+## 🚀 Como executar o projeto
   ### 1️⃣ Utilizando Google Colab
   Baixe o arquivo [Challenge_TelecomX.ipynb](https://github.com/marcelagrg/challenge-telecomx/blob/main/Challenge_TelecomX.ipynb) e abra no Colab ou acesse diretamente pelo link 'Open in Colab'.
 
@@ -67,7 +65,7 @@ A base de dados contém as seguintes variáveis:
 ```
 
 
-# Principais Resultados
+## 📈 Principais Resultados
 
 A análise indicou que o churn está principalmente associado a:
 - Clientes nos primeiros meses de contrato;
